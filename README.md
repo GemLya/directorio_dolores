@@ -14,6 +14,10 @@ Ciclo 3.2 · Los casos de falla
 🟢 VERDE: el código mínimo para pasar
 <img width="766" height="65" alt="image" src="https://github.com/user-attachments/assets/f873432d-87b6-47ca-9bef-53c4a04b5160" />
 
+Ronda 6 · La pantalla y la prueba final
+Paso 6.1 · La pantalla
+
+
 Ciclo 3.3 · Crear, buscar y eliminar
 🔴 ROJO: escribe la prueba (debe FALLAR)
 🟢 VERDE: el código mínimo para pasar
