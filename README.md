@@ -27,3 +27,5 @@ Ciclo 3.3 · Crear, buscar y eliminar
 Ciclo 5.1 · Pruebas de la secuencia de estados
 🟢 VERDE: el código mínimo para pasar
 <img width="798" height="43" alt="image" src="https://github.com/user-attachments/assets/4554079b-51b7-4455-9f83-e0661fd56880" />
+
+Paso 6.3 · Prueba de fuego (en este orden)
